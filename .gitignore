@@ -1,0 +1,19 @@
+# IntelliJ project files
+.idea/
+
+# Claude session data
+.claude/
+
+# Impeccable plugin data
+.impeccable/
+.impeccable-live.json
+.impeccable-live/
+
+# Internal docs (not part of the site)
+DESIGN.md
+PRODUCT.md
+FBLA project.txt
+
+# OS junk
+.DS_Store
+Thumbs.db

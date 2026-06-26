@@ -1,0 +1,42 @@
+FBLA Website Design Project – Sources
+
+This file lists all sources used for content, images, code, and research
+included in the FBLA Website Design project.
+
+WEBSITE INSPIRATION
+    Mater Academy School Website
+    - Used as a rudimentary guide for website design. 
+    - https://www.matermiddlehigh.org/
+    - Accessed 6 November 2025 
+
+IMAGES & MEDIA SOURCES
+    Unsplash. "Stock Photography Platform."
+    - Used for royalty-free images throughout the website.
+    - https://unsplash.com/
+    - Accessed 10 November 2025.
+
+    Mater Academy Charter Middle/High School. “Mater Academy ‘M’ Lion Logo.”
+	- Used as a school/brand logo graphic in the project.
+	- https://enrollmystudent.org/application/form/fl/27
+	- Accessed 1 February 2026.
+
+    Mater Academy. “Our Schools” (Mater Academy Charter Middle/High School campus photo).
+	- Used as a campus/building image for visual context/background.
+	- https://www.materacademy.org/schools/
+	- Accessed 1 February 2026.
+
+CODE & TECHNICAL REFERENCES
+    W3Schools. “CSS Tutorial.”
+	- Used for learning CSS styling rules, properties, selectors, and examples.
+	- https://www.w3schools.com/css/
+	- Accessed 1 November 2025.
+    
+    JSDoc. "JSDoc Documentation and Commenting Standards."
+    - Used for documenting JavaScript functions.
+    - https://jsdoc.app/
+    - Accessed 1 February 2026.
+
+    Who Can Use. "Color Accessibility Tool."
+    - Used to test color contrast and accessibility for users with visual impairments.
+    - https://www.whocanuse.com/
+    - Accessed 2 February 2026.
